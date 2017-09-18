@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">List View</string>
+    <string name="primeraletra">C</string>
+    <string name="txtRemitente">Cristina Flores</string>
+    <string name="txtEmail">cristinaflores@gmail.com</string>
+    <string name="txtAsunto">Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño
+</string>
+    <string name="textSecondRemitente">Cristina Flores</string>
+    <string name="textSecondEmail">cristinaflores@gmail.com</string>
+    <string name="textSecondAsunto">Es un hecho establecido</string>
+    <string name="textSecondContenido">Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño
+</string>
+</resources>
